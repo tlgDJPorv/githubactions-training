@@ -1,0 +1,6 @@
+name: Hello World Docker Action
+description: GitHub training hello world docker action
+
+runs:
+  using: docker
+  image: Dockerfile
